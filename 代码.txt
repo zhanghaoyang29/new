@@ -87,4 +87,3 @@ with tf.Session() as sess:
             print("Eppoch: %03d/%03d cost: %.9f train_acc: %.3f test_acc: %.3f" %
                   (epoch, training_epochs, avg_cost, train_acc, test_acc))
 print("Done.")
-更改更改
